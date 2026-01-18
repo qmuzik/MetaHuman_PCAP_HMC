@@ -1,0 +1,12 @@
+MetaHuman PCAP HMC iPhone Notes Version 1.0
+
+- Unreal Live Link iPhone app will definitely make it easier to capture facial movements.
+
+- Definitely heavier in front with the iPhone configuration while the GoPro is lighter. 
+
+- Directional mic or lavalier might be needed for better audio quality. 
+
+- Might prefer the GoPro over the iPhone due to weight, but still need to test it in UE.
+
+- If I decide to get a directional mic for better audio, I am going to need a cage with a hot shoe 
+mount for a light. However this will increase weight and could cause neck strain. 
