@@ -1,0 +1,16 @@
+MetaHuman PCAP HMC GoPro Notes Version 1.0
+
+- Having the HMC be able to use a GoPro and iPhone for facial capture was a smart move.
+
+- GoPro is definitely lighter and would not need as much weight in its counter weight pouch.
+
+- Going to need a directional mic or lavalier to get better audio quality.
+
+- Due to past HMC designs have the GoPro use a vertical orientation would result in better results. This
+would be due to removing excess footage on the sides of the actors face and allow more precise focus on the
+face. 
+
+- Due to GoPro's size, I definitely need to use the small aluminum arm to get the camera in the proper 
+position of the actors face. 
+
+- Might have to figure out how to give continuous power for the GoPro to prevent battery changes.
